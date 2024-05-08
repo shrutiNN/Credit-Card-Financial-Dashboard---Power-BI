@@ -3,13 +3,17 @@
 CREDIT CARD TRANSACTION REPORT**
 
 
-Hello everyone!!
+Project Overview : To Develop a comprehensive credit card weekly dashboard for monitoring key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively.
+
+
+
+
 
 I am excited to share the results of a recent project where I developed an interactive 📊Power BI dashboard using transaction and customer data from a PostgreSQL database and Excel. This dashboard provides real-time insights into key performance metrics and trends for credit card operations.
 
 ⚡ Project Highlights:
 
-💢 Objective: Develop a comprehensive credit card weekly dashboard for monitoring key performance metrics and trends.
+💢 Objective: 
 💢 Tools Used: Microsoft Power BI, Data sources (PostgreSQL, Excel)
 
 ⚡Insights from the Dashboard:
