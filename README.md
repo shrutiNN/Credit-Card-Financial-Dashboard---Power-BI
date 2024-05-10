@@ -1,6 +1,6 @@
-# power-bi-project
+
 **
-CREDIT CARD TRANSACTION REPORT**
+CREDIT CARD TRANSACTION REPORT** | Power BI
 
 
 Project Overview : To Develop a comprehensive credit card weekly dashboard for monitoring key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively.
